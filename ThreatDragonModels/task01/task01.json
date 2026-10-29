@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "0.0.1",
+  "released_at": "2026-10-29",
+  "summary": {
+    "title": "task01",
+    "owner": "Jannek Kloettschen",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 4,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
